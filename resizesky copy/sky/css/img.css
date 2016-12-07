@@ -1,0 +1,18 @@
+img{
+width: 1400px;
+height: auto;
+position: absolute;
+left: 0px;
+top: 0px;
+}
+
+.arrow{
+width: 20px;
+height: auto;
+position: absolute;
+right: 10px;
+bottom: 10px;
+float: right;
+}
+
+
